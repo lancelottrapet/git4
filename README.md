@@ -6,7 +6,9 @@
   </head>
   <body>
    <p>bla bla</p>
+<<<<<<< HEAD
 LOCAL
+
   
   </body>
 </html>
